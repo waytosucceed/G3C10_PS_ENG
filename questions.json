@@ -1,0 +1,238 @@
+{
+  "heading": "Questions and Answers",
+  "topics": [
+    {
+      "heading": "Letter consonants and Consonant blends",
+      "questions": [
+        {
+          "questionNo": 1,
+          "question": "Which of the following words contains a three-letter consonant blend?",
+          "options": [
+            "brick",
+            "strong",
+            "plant",
+            "frog"
+          ],
+          "answer": 1,
+          "explanation": "The word \"strong\" contains the three-letter consonant blend \"str.\""
+        },
+        {
+          "questionNo": 2,
+          "question": "Identify the consonant blend in the word \"flight\":",
+          "options": [
+            "fl",
+            "li",
+            "ig",
+            "All of the above"
+          ],
+          "answer": 0,
+          "explanation": "This is because \"fl\" at the beginning of the word consists of two consonants pronounced together, retaining their sounds."
+        },
+        {
+          "questionNo": 3,
+          "question": "Which word has a three-letter consonant blend?",
+          "options": [
+            "score",
+            "scare",
+            "scratch",
+            "scarf"
+          ],
+          "answer": 2,
+          "explanation": "The word \"scratch\" contains the consonant blend \"scr.\""
+        },
+        {
+          "questionNo": 4,
+          "question": "The word \"bribe\" contains a three-letter consonant blend.",
+          "options": [
+            "True",
+            "False"
+          ],
+          "answer": 1,
+          "explanation": "The word \"bribe\" contains a two-letter consonant blend \"br.\""
+        },
+        {
+          "questionNo": 5,
+          "question": "Which of the following words does not contain a consonant blend?",
+          "options": [
+            "trap",
+            "clip",
+            "bat",
+            "drink"
+          ],
+          "answer": 2,
+          "explanation": "The word \"bat\" does not contain a consonant blend."
+        },
+        {
+          "questionNo": 6,
+          "question": "Identify the consonant blend in the word \"thrust\":",
+          "options": [
+            "thr",
+            "ru",
+            "ust",
+            "hr"
+          ],
+          "answer": 0,
+          "explanation": "The word \"thrust\" contains the consonant blend \"thr.\""
+        },
+        {
+          "questionNo": 7,
+          "question": "Which word has a three-letter consonant blend?",
+          "options": [
+            "supply",
+            "splice",
+            "spark",
+            "slip"
+          ],
+          "answer": 1,
+          "explanation": "The word \"splice\" contains the consonant blend \"spl.\""
+        },
+        {
+          "questionNo": 8,
+          "question": "Identify the consonant blend in the word \"crash\":",
+          "options": [
+            "cr",
+            "h",
+            "ra",
+            "ash"
+          ],
+          "answer": 0,
+          "explanation": "The word \"crash\" contains the consonant blend \"cr.\""
+        },
+        {
+          "questionNo": 9,
+          "question": "Which of the following is a three-letter consonant blend?",
+          "options": [
+            "tr",
+            "dr",
+            "spl",
+            "br"
+          ],
+          "answer": 2,
+          "explanation": "The consonant blend \"spl\" is a three-letter blend."
+        },
+        {
+          "questionNo": 10,
+          "question": "The word \"strand\" contains a three-letter consonant blend.",
+          "options": [
+            "True",
+            "False"
+          ],
+          "answer": 0,
+          "explanation": "The word \"strand\" contains the three-letter consonant blend \"str.\""
+        },
+        {
+          "questionNo": 11,
+          "question": "Which word has the consonant blend \"spr\"?",
+          "options": [
+            "sparrow",
+            "spread",
+            "sport",
+            "spurt"
+          ],
+          "answer": 1,
+          "explanation": "The word \"spread\" contains the consonant blend \"spr.\""
+        },
+        {
+          "questionNo": 12,
+          "question": "Identify the consonant blend in the word \"planet\":",
+          "options": [
+            "pl",
+            "la",
+            "an",
+            "nt"
+          ],
+          "answer": 0,
+          "explanation": "The word \"planet\" contains the consonant blend \"pl.\""
+        },
+        {
+          "questionNo": 13,
+          "question": "The word \"glide\" contains a consonant blend.",
+          "options": [
+            "True",
+            "False"
+          ],
+          "answer": 0,
+          "explanation": "The word \"glide\" contains the consonant blend \"gl.\""
+        },
+        {
+          "questionNo": 14,
+          "question": "Which of the following words contains a three-letter consonant blend?",
+          "options": [
+            "scam",
+            "class",
+            "brave",
+            "strike"
+          ],
+          "answer": 3,
+          "explanation": "The word \"strike\" contains the three-letter consonant blend \"str.\""
+        },
+        {
+          "questionNo": 15,
+          "question": "Which word contains the three-letter consonant blend?",
+          "options": [
+            "sparkle",
+            "spade",
+            "splice",
+            "spell"
+          ],
+          "answer": 2,
+          "explanation": "The word \"splice\" contains the three-letter consonant blend \"spl.\""
+        },
+        {
+          "questionNo": 16,
+          "question": "The word \"test\" has the final consonant blend of \"sk\".",
+          "options": [
+            "True",
+            "False"
+          ],
+          "answer": 1,
+          "explanation": "The word \"test\" has the final consonant blend of \"st\"."
+        },
+        {
+          "questionNo": 17,
+          "question": "Which of the following has the final consonant blend of \"nd\"?",
+          "options": [
+            "last",
+            "mask",
+            "cold",
+            "tend"
+          ],
+          "answer": 3,
+          "explanation": "The final consonant blend \"nd\" consists of the letters 'n' and 'd', which are present at the end of the word \"tend.\""
+        },
+        {
+          "questionNo": 18,
+          "question": "Which of the following words contains a three-letter consonant blend?",
+          "options": [
+            "sprint",
+            "scope",
+            "train",
+            "break"
+          ],
+          "answer": 0,
+          "explanation": "The word \"sprint\" contains the three-letter consonant blend \"spr.\""
+        },
+        {
+          "questionNo": 19,
+          "question": "The word \"crunch\" contains two consonant blends.",
+          "options": [
+            "True",
+            "False"
+          ],
+          "answer": 0,
+          "explanation": "The word \"crunch\" contains the consonant blends \"cr\" and \"nch.\""
+        },
+        {
+          "questionNo": 20,
+          "question": "The “l” final consonant blend would be “-ld” in “cold”.",
+          "options": [
+            "True",
+            "False"
+          ],
+          "answer": 0,
+          "explanation": "In the word “cold,” the final consonant blend is “-ld.” A consonant blend consists of two or more consonants together in which each consonant sound is heard."
+        }
+      ]
+    }
+  ]
+}
